@@ -1,7 +1,7 @@
 User Guide - NSRL RDS2TXT Converter
 ===============================
 
-Version 1.0.0 (2026-08-26). See `CHANGELOG.md` for release notes.
+Version 1.0.0 (2026-08-26).
 
 This converter takes NIST NSRL RDS v3 SQLite databases (the current `.db` / zip publications) and writes the legacy RDS 2.xx text files that a lot of forensic tools still expect. NIST moved the hash set to SQLite. Many tools still want `NSRLFile.txt` as quoted CSV.
 
