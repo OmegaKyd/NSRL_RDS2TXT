@@ -94,3 +94,8 @@ License
 MIT. See `LICENSE.txt`.
 
 NSRL and RDS are trademarks of NIST. This project is not affiliated with NIST.
+
+Update from last release
+===============================
+
+1.0.0 (2026-08-26) — first public release. Converts RDS v3 zip/.db files to RDS 2.xx text or CSV, plus one-hash-per-line MD5 and SHA-1 lists. Cancel stops a run and removes incomplete outputs.
